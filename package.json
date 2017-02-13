@@ -4,7 +4,8 @@
   "description": "cli prompt for .env files",
   "scripts": {
     "test": "standard",
-    "start": "node ./bin/cmd.js"
+    "start": "node ./bin/cmd.js",
+    "updtr": "updtr --save-exact"
   },
   "repository": {
     "type": "git",
