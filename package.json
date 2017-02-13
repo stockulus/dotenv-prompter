@@ -1,11 +1,14 @@
 {
   "name": "dotenv-prompter",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "cli prompt for .env files",
   "scripts": {
     "test": "standard",
     "start": "node ./bin/cmd.js",
     "updtr": "updtr --save-exact"
+  },
+  "bin": {
+    "dotenv-prompter": "./bin/cmd.js"
   },
   "repository": {
     "type": "git",
