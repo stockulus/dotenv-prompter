@@ -40,6 +40,8 @@ create a JSON file .env.json
 }
 ```
 
+see also https://www.npmjs.com/package/prompt
+
 Add to your package.json, e. g.
 
 ```JSON
@@ -50,6 +52,9 @@ Add to your package.json, e. g.
 
 ```
 
-and you get an .env file in your Project. Properly exclude it via .gitignore, so every dev can have idividual .env file
+and you get an .env file in your Project. It just asks for the missing elements 
+
+Properly exclude it via .gitignore, so every dev can have individual .env file
+
 ---
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000)](https://twitter.com/stockulus) [![GitHub stars](https://img.shields.io/github/stars/stockulus/dotenv-prompt.svg?style=social&label=Star)](https://github.com/stockulus/dotenv-prompt)

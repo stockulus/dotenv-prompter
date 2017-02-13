@@ -2,9 +2,9 @@
   "name": "dotenv-prompt",
   "version": "0.9.0",
   "description": "cli prompt for .env files",
-  "main": "index.js",
   "scripts": {
-    "test": "standard"
+    "test": "standard",
+    "start": "node ./bin/cmd.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,9 @@
     "url": "https://github.com/stockulus/dotenv-prompt/issues"
   },
   "homepage": "https://github.com/stockulus/dotenv-prompt#readme",
+  "dependencies": {
+    "prompt": "1.0.0"
+  },
   "devDependencies": {
     "standard": "8.6.0"
   }
