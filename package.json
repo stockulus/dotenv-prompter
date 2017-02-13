@@ -1,5 +1,5 @@
 {
-  "name": "dotenv-prompt",
+  "name": "dotenv-prompter",
   "version": "0.9.0",
   "description": "cli prompt for .env files",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stockulus/dotenv-prompt.git"
+    "url": "git+https://github.com/stockulus/dotenv-prompter.git"
   },
   "keywords": [
     ".env",
@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stockulus/dotenv-prompt/issues"
+    "url": "https://github.com/stockulus/dotenv-prompter/issues"
   },
-  "homepage": "https://github.com/stockulus/dotenv-prompt#readme",
+  "homepage": "https://github.com/stockulus/dotenv-prompter#readme",
   "dependencies": {
     "prompt": "1.0.0"
   },
