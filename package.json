@@ -1,0 +1,31 @@
+{
+  "name": "dotenv-prompt",
+  "version": "0.9.0",
+  "description": "cli prompt for .env files",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stockulus/dotenv-prompt.git"
+  },
+  "keywords": [
+    ".env",
+    "dotenv",
+    "prompt"
+  ],
+  "author": {
+    "name": "Christoph Stock",
+    "email": "stockulus@icloud.com",
+    "url": "https://twitter.com/stockulus"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stockulus/dotenv-prompt/issues"
+  },
+  "homepage": "https://github.com/stockulus/dotenv-prompt#readme",
+  "devDependencies": {
+    "standard": "8.6.0"
+  }
+}
